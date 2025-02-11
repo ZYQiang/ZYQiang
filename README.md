@@ -9,11 +9,19 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qiang&show_icons=true&theme=radical)
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qiang&show_icons=true&theme=radical)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiang&layout=compact&theme=radical)
+
+---
 
 ### 🔥 热门仓库
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Qiang&repo=ZYQiang&theme=radical)](https://github.com/你的Qiang/ZYQiang)
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Qiang&repo=ZYQiang&theme=radical)](https://github.com/Qiang/ZYQiang)
+
+
 
 ---
 
