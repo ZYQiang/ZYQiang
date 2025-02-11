@@ -6,14 +6,14 @@
 ---
 
 ### 📊 GitHub 统计
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的Qiang&show_icons=true&theme=radical)
 
 ---
 
 ### 🔥 热门仓库
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=你的GitHub用户名&repo=你的仓库名&theme=radical)](https://github.com/你的GitHub用户名/你的仓库名)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Qiang&repo=ZYQiang&theme=radical)](https://github.com/你的Qiang/ZYQiang)
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=你的GitHub用户名&repo=你的仓库名2&theme=radical)](https://github.com/你的GitHub用户名/你的仓库名2)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Qiang&repo=ZYQiang&theme=radical)](https://github.com/Qiang/ZYQiang)
 
 ---
 
