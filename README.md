@@ -1,6 +1,6 @@
 ## 欢迎来到我的 GitHub 仓库！ 🚀
 
-👋 **我是[Qiang]**，一位热爱技术的开发者，专注于开源项目和日常生活的工具自动化。  
+👋 **我是 Qiang **，一位热爱技术的开发者，专注于开源项目和日常生活的工具自动化。  
 📌 **感兴趣的方向**：Web 开发、自动化、云计算、网络安全
 
 ---
@@ -23,8 +23,8 @@
 ---
 
 ### 📫 联系我
-- 🌐 个人网站：[yourwebsite.com](https://yourwebsite.com)
-- 🐦 Twitter：[yourtwitter](https://twitter.com/yourtwitter)
-- 📧 邮箱：[youremail@example.com](mailto:youremail@example.com)
+###- 🌐 个人网站：[yourwebsite.com](https://yourwebsite.com)
+###- 🐦 Twitter：[yourtwitter](https://twitter.com/yourtwitter)
+###- 📧 邮箱：[youremail@example.com](mailto:youremail@example.com)
 
 💖 **感谢你的支持！别忘了 Star ⭐ 我的开源项目！**
