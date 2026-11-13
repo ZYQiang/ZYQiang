@@ -17,9 +17,9 @@
 
 <h2 align="center">精选仓库</h2>
 
-- **[metapi](https://github.com/ZYQiang/metapi)** — 多站点 API 聚合：一个 Key、一个入口，自动发现模型、智能路由
-- **[JKVideo](https://github.com/ZYQiang/JKVideo)** — 第三方 B 站客户端，支持 Android / H5 / iOS
-- **[tvdeck](https://github.com/ZYQiang/tvdeck)** — 电视遥控与设备管理
+- **[tvdeck](https://github.com/ZYQiang/tvdeck)** — 通用 ADB 设备管理 Web 工作台：连接、投屏、遥控与自动化
+- **[metapi](https://github.com/ZYQiang/metapi)** — 多站点 API 聚合：一个 Key、一个入口（fork 自 cita-777/metapi）
+- **[JKVideo](https://github.com/ZYQiang/JKVideo)** — 第三方 B 站客户端，支持 Android / H5 / iOS（fork 自 tiajinsha/JKVideo）
 
 <h2 align="center">联系我</h2>
 
