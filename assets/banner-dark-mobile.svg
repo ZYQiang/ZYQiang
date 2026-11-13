@@ -30,7 +30,9 @@
     </g>
 
     <line x1="38" y1="112" x2="38" y2="286" stroke="#7CE7D9" stroke-opacity="0.45" stroke-width="2"/>
-    <rect x="34" y="108" width="8" height="8" fill="#E8C87A"/>
+    <rect x="34" y="108" width="8" height="8" fill="#E8C87A">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
 
     <text x="66" y="112" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="22" letter-spacing="2" fill="#E8C87A">~/qiang<tspan fill="#7CE7D9">▍</tspan></text>
 
@@ -50,14 +52,17 @@
     </g>
 
     <g>
-      <rect x="462" y="62" width="130" height="34" rx="10" fill="#131A24" stroke="#2A3542"/>
+      <rect x="462" y="62" width="130" height="76" rx="10" fill="#131A24" stroke="#2A3542"/>
       <circle cx="480" cy="79" r="3.5" fill="#E8C87A"/>
       <circle cx="494" cy="79" r="3.5" fill="#7CE7D9"/>
       <circle cx="508" cy="79" r="3.5" fill="#475569"/>
+      <line x1="462" y1="90" x2="592" y2="90" stroke="#232E3B"/>
+      <text x="474" y="110" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13"><tspan fill="#E8C87A">$ </tspan><tspan fill="#C9D1D9">whoami</tspan></text>
+      <text x="474" y="128" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13" fill="#7CE7D9">Qiang</text>
     </g>
 
-    <text x="50" y="402" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="18" fill="#5B6675">// qiang.txt</text>
-    <text x="590" y="402" text-anchor="end" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="18" fill="#5B6675">github.com/ZYQiang</text>
+    <text x="50" y="402" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="14" fill="#8B98A8">// qiang.txt</text>
+    <text x="590" y="402" text-anchor="end" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="14" fill="#8B98A8">github.com/ZYQiang</text>
   </g>
 
   <rect x="0.5" y="0.5" width="639" height="429" rx="16" fill="none" stroke="#26303C"/>

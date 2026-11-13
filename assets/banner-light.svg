@@ -7,11 +7,11 @@
       <path d="M25 0 H0 V25" fill="none" stroke="#0B0F17" stroke-opacity="0.045"/>
     </pattern>
     <radialGradient id="glowTeal" cx="0.85" cy="0.08" r="0.55">
-      <stop offset="0" stop-color="#0E7C72" stop-opacity="0.1"/>
+      <stop offset="0" stop-color="#0E7C72" stop-opacity="0.15"/>
       <stop offset="1" stop-color="#0E7C72" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowGold" cx="0.08" cy="0.95" r="0.5">
-      <stop offset="0" stop-color="#A16207" stop-opacity="0.09"/>
+      <stop offset="0" stop-color="#A16207" stop-opacity="0.14"/>
       <stop offset="1" stop-color="#A16207" stop-opacity="0"/>
     </radialGradient>
   </defs>
@@ -32,7 +32,9 @@
 
     <!-- signal rail -->
     <line x1="40" y1="74" x2="40" y2="244" stroke="#0E7C72" stroke-opacity="0.4" stroke-width="2"/>
-    <rect x="36" y="70" width="8" height="8" fill="#B45309"/>
+    <rect x="36" y="70" width="8" height="8" fill="#B45309">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
 
     <!-- identity -->
     <text x="72" y="78" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="15" letter-spacing="2" fill="#A16207">~/qiang<tspan fill="#0E7C72">▍</tspan></text>
@@ -62,7 +64,7 @@
     <circle cx="606" cy="56" r="4" fill="#94A3B8"/>
     <text x="752" y="61" text-anchor="middle" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="13" fill="#64748B">~/profile</text>
 
-    <g font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="15">
+    <g font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="16">
       <text x="574" y="104"><tspan fill="#B45309">$ </tspan><tspan fill="#24292F">whoami</tspan></text>
       <text x="574" y="132" fill="#0E7C72">Qiang — full-stack · automation</text>
       <text x="574" y="160"><tspan fill="#B45309">$ </tspan><tspan fill="#24292F">cat focus.txt</tspan></text>
@@ -70,8 +72,8 @@
       <text x="574" y="216" fill="#B45309">→ PRs welcome @ ZYQiang</text>
     </g>
 
-    <text x="56" y="292" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#8A949E">// qiang.txt · 持续更新中</text>
-    <text x="944" y="292" text-anchor="end" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="12" fill="#8A949E">github.com/ZYQiang</text>
+    <text x="56" y="292" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="14" fill="#6B7683">// qiang.txt · 持续更新中</text>
+    <text x="944" y="292" text-anchor="end" font-family="'SF Mono','Cascadia Code',Consolas,monospace" font-size="14" fill="#6B7683">github.com/ZYQiang</text>
   </g>
 
   <rect x="0.5" y="0.5" width="999" height="299" rx="14" fill="none" stroke="#DCE3E8"/>
