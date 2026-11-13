@@ -6,19 +6,17 @@
 ---
 
 ### 📊 GitHub 统计
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Qiang&show_icons=true&theme=radical)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api/?username=ZYQiang&cc=a9fef7&tc=fe428e&ic=f8d866&bc=22272e)
 
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qiang&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZYQiang&theme=radical)
 
 ---
 
 ### 🔥 热门仓库
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Qiang&repo=ZYQiang&theme=radical)](https://github.com/你的Qiang/ZYQiang)
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=Qiang&repo=ZYQiang&theme=radical)](https://github.com/Qiang/ZYQiang)
-
-
+- [metapi](https://github.com/ZYQiang/metapi) — 多站点 API 聚合，一个 Key 一个入口
+- [JKVideo](https://github.com/ZYQiang/JKVideo) — 高颜值第三方 B 站客户端（安卓 / H5 / iOS）
+- [tvdeck](https://github.com/ZYQiang/tvdeck)
 
 ---
 
