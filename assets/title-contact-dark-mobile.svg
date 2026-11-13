@@ -1,0 +1,9 @@
+<svg width="520" height="58" viewBox="0 0 520 58" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="联系我">
+
+  <text x="0" y="34" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="14" fill="#E8C87A" letter-spacing="1">04</text>
+  <line x1="20" y1="11" x2="20" y2="40" stroke="#2A3542" stroke-width="1"/>
+
+  <text x="34" y="34" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',Roboto,Helvetica,Arial,sans-serif" font-size="27" fill="#E6EDF3" letter-spacing="-0.4" font-weight="700">联系我</text>
+  <rect x="0" y="36" width="6" height="6" fill="#E8C87A"/>
+
+</svg>

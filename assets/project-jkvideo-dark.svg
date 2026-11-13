@@ -1,0 +1,47 @@
+<svg width="464" height="288" viewBox="0 0 464 288" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="JKVideo — 第三方 B 站客户端，支持 Android、H5、iOS；Fork 自 tiajinsha/JKVideo">
+
+  <defs>
+    <clipPath id="card-jkvideo-dark-d-clip"><rect width="464" height="288" rx="14"/></clipPath>
+    <pattern id="card-jkvideo-dark-d-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0 H0 V24" fill="none" stroke="#E6EDF3" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#card-jkvideo-dark-d-clip)">
+    <rect width="464" height="288" fill="#0F141C"/>
+    <rect width="464" height="288" fill="url(#card-jkvideo-dark-d-grid)"/>
+  </g>
+
+  <rect x="28" y="26" width="52" height="52" rx="14" fill="#141C26" stroke="#2A3542"/>
+
+  <g fill="none" stroke="#3A4757" stroke-width="2">
+    <rect x="34.0" y="40.0" width="36" height="25" rx="5"/>
+    <path d="M41.0 35.0 h9 M57.0 35.0 h7" stroke-opacity="0.6" stroke-linecap="round"/>
+  </g>
+  <path d="M52.0 46.5 l10 5.5 l-10 5.5 z" fill="#E8C87A"/>
+
+  <text x="96" y="52" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="26" fill="#E6EDF3" letter-spacing="-0.5" font-weight="700">JKVideo</text>
+  <text x="436" y="50" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="11" fill="#7A8694" text-anchor="end" letter-spacing="0.2">React Native</text>
+  <text x="28" y="106" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',Roboto,Helvetica,Arial,sans-serif" font-size="16" fill="#A9B4C0" font-weight="600">第三方 B 站客户端</text>
+  <text x="28" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#7A8694" letter-spacing="0.3">DASH · 弹幕 · 直播 · Android / H5 / iOS</text>
+  <line x1="28" y1="152" x2="436" y2="152" stroke="#232E3B" stroke-width="1"/>
+
+  <text x="28" y="268" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="11.5" fill="#7A8694" letter-spacing="0.2">Fork 自 tiajinsha/JKVideo</text>
+  <g stroke="#3A4757" stroke-width="2" fill="none">
+    <rect x="44" y="172" width="164" height="92" rx="10"/>
+    <path d="M116 202 l22 16 l-22 16 z" fill="#E8C87A" stroke="none"/>
+  </g>
+  <g fill="#3A4757">
+    <rect x="44" y="160" width="60" height="6" rx="3"/>
+    <rect x="112" y="160" width="38" height="6" rx="3" opacity="0.55"/>
+  </g>
+  <rect x="56" y="248" width="140" height="6" rx="3" fill="#3A4757" fill-opacity="0.5"/>
+  <rect x="56" y="248" width="54" height="6" rx="3" fill="#7CE7D9"/>
+  <g fill="#3A4757">
+    <rect x="240" y="188" width="150" height="7" rx="3.5" opacity="0.85"/>
+    <rect x="240" y="206" width="118" height="7" rx="3.5" opacity="0.6"/>
+    <rect x="240" y="224" width="132" height="7" rx="3.5" opacity="0.4"/>
+  </g>
+
+  <rect x="0.5" y="0.5" width="463" height="287" rx="14" fill="none" stroke="#26303C"/>
+
+</svg>

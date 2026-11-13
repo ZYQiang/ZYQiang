@@ -1,0 +1,52 @@
+<svg width="464" height="288" viewBox="0 0 464 288" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="metapi — 多站点 API 聚合，一个 Key 一个入口；Fork 自 cita-777/metapi">
+
+  <defs>
+    <clipPath id="card-metapi-dark-d-clip"><rect width="464" height="288" rx="14"/></clipPath>
+    <pattern id="card-metapi-dark-d-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0 H0 V24" fill="none" stroke="#E6EDF3" stroke-opacity="0.035"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#card-metapi-dark-d-clip)">
+    <rect width="464" height="288" fill="#0F141C"/>
+    <rect width="464" height="288" fill="url(#card-metapi-dark-d-grid)"/>
+  </g>
+
+  <rect x="28" y="26" width="52" height="52" rx="14" fill="#141C26" stroke="#2A3542"/>
+
+  <g stroke="#3A4757" stroke-width="2" fill="none">
+    <path d="M40.0 40.0 H56.0"/><path d="M40.0 52.0 H56.0"/><path d="M40.0 64.0 H56.0"/>
+  </g>
+  <g fill="none" stroke="#7CE7D9" stroke-width="2">
+    <circle cx="36.0" cy="40.0" r="3.6"/><circle cx="36.0" cy="52.0" r="3.6"/><circle cx="36.0" cy="64.0" r="3.6"/>
+    <rect x="56.0" y="42.0" width="20" height="20" rx="6"/>
+  </g>
+  <path d="M63.0 52.0 h6 m-3 -3 v6" stroke="#E8C87A" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="96" y="52" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="26" fill="#E6EDF3" letter-spacing="-0.5" font-weight="700">metapi</text>
+  <text x="436" y="50" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="11" fill="#7A8694" text-anchor="end" letter-spacing="0.2">TypeScript</text>
+  <text x="28" y="106" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',Roboto,Helvetica,Arial,sans-serif" font-size="16" fill="#A9B4C0" font-weight="600">多站点 API 聚合，一个 Key 一个入口</text>
+  <text x="28" y="132" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',Roboto,Helvetica,Arial,sans-serif" font-size="12.5" fill="#7A8694" letter-spacing="0.3">自动发现模型 · 智能路由 · 成本最优</text>
+  <line x1="28" y1="152" x2="436" y2="152" stroke="#232E3B" stroke-width="1"/>
+
+  <text x="28" y="268" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="11.5" fill="#7A8694" letter-spacing="0.2">Fork 自 cita-777/metapi</text>
+  <g stroke="#3A4757" stroke-width="2" fill="none">
+    <circle cx="66" cy="182" r="4"/><circle cx="66" cy="204" r="4"/><circle cx="66" cy="226" r="4"/>
+    <path d="M72 182 H136 M72 204 H136 M72 226 H136" stroke-opacity="0.7"/>
+  </g>
+  <g fill="none" stroke="#7CE7D9" stroke-width="2">
+    <rect x="136" y="170" width="52" height="68" rx="12"/>
+  </g>
+  <path d="M162 204 h6 m-3 -3 v6" stroke="#E8C87A" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M188 186 C224 186 224 176 260 176 M188 204 H260 M188 222 C224 222 224 232 260 232"
+        stroke="#3A4757" stroke-width="2" fill="none" stroke-opacity="0.7"/>
+  <g fill="none" stroke="#3A4757" stroke-width="2">
+    <rect x="262" y="162" width="28" height="28" rx="8"/>
+    <rect x="262" y="190" width="28" height="28" rx="8"/>
+    <rect x="262" y="218" width="28" height="28" rx="8"/>
+  </g>
+  <rect x="304" y="200" width="120" height="10" rx="5" fill="#3A4757" fill-opacity="0.35"/>
+  <rect x="304" y="200" width="64" height="10" rx="5" fill="#E8C87A"/>
+
+  <rect x="0.5" y="0.5" width="463" height="287" rx="14" fill="none" stroke="#26303C"/>
+
+</svg>

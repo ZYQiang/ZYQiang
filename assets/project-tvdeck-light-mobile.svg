@@ -1,0 +1,39 @@
+<svg width="520" height="322" viewBox="0 0 520 322" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="tvdeck — 通用 ADB 设备管理 Web 工作台：连接、投屏、遥控、自动化">
+
+  <defs>
+    <clipPath id="card-tvdeck-light-m-clip"><rect width="520" height="322" rx="14"/></clipPath>
+    <pattern id="card-tvdeck-light-m-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0 H0 V24" fill="none" stroke="#1F2937" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#card-tvdeck-light-m-clip)">
+    <rect width="520" height="322" fill="#FFFFFF"/>
+    <rect width="520" height="322" fill="url(#card-tvdeck-light-m-grid)"/>
+  </g>
+
+  <rect x="30" y="32" width="68" height="68" rx="16" fill="#F7F9FC" stroke="#E4EAF2"/>
+
+  <g stroke="#C9D4E0" stroke-width="2" fill="none" stroke-linejoin="round">
+    <rect x="38.0" y="55.0" width="14" height="24" rx="4"/>
+    <rect x="58.0" y="52.0" width="21" height="28" rx="4"/>
+    <rect x="82.0" y="58.0" width="24" height="16" rx="3"/>
+    <path d="M43.0 72.0 h4"/>
+    <path d="M94.0 74.0 v4"/>
+  </g>
+  <rect x="40.0" y="60.0" width="10" height="3" rx="1.5" fill="#C9922A"/>
+  <path d="M88.0 54.0 a9 9 0 0 1 8 -8" stroke="#C9922A" stroke-width="2" fill="none"/>
+
+  <text x="118" y="72" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="30" fill="#0F1720" letter-spacing="-0.6" font-weight="700">tvdeck</text>
+  <text x="118" y="100" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#45505F">通用 ADB 设备管理 Web 工作台</text>
+  <text x="30" y="156" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',Roboto,Helvetica,Arial,sans-serif" font-size="13" fill="#66707E" letter-spacing="0.4">连接 · 投屏 · 遥控 · 自动化</text>
+  <line x1="30" y1="186" x2="490" y2="186" stroke="#E9EEF5" stroke-width="1"/>
+
+  <text x="30" y="218" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="9.5" fill="#66707E" letter-spacing="1.4">语言</text>
+  <text x="30" y="240" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="13" fill="#0F1720">JavaScript</text>
+  <text x="200" y="218" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="9.5" fill="#66707E" letter-spacing="1.4">属性</text>
+  <text x="200" y="240" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="13" fill="#0B6E68">自主开发</text>
+  <text x="30" y="278" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="9.5" fill="#66707E" letter-spacing="1.4">仓库</text>
+  <text x="30" y="300" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="12" fill="#66707E">github.com/ZYQiang/tvdeck</text>
+  <rect x="0.5" y="0.5" width="519" height="321" rx="14" fill="none" stroke="#D8E0EA"/>
+
+</svg>

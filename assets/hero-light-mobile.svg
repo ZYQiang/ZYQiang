@@ -1,0 +1,91 @@
+<svg width="520" height="466" viewBox="0 0 520 466" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Qiang — 专注开源项目与工具自动化">
+<style>
+    @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+    @keyframes led { 0%,100%{opacity:1} 50%{opacity:.35} }
+    @media (prefers-reduced-motion: no-preference) {
+      .cursor { animation: blink 1.15s steps(1,end) infinite; }
+      .led { animation: led 3.2s ease-in-out infinite; }
+    }
+</style>
+
+  <defs>
+    <clipPath id="hero-light-m-clip"><rect width="520" height="466" rx="14"/></clipPath>
+    <pattern id="hero-light-m-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0 H0 V24" fill="none" stroke="#1F2937" stroke-opacity="0.05"/>
+    </pattern>
+  </defs>
+  <g clip-path="url(#hero-light-m-clip)">
+    <rect width="520" height="466" fill="#FFFFFF"/>
+    <rect width="520" height="466" fill="url(#hero-light-m-grid)"/>
+  </g>
+
+  <g stroke="#12A79B" stroke-opacity="0.45" stroke-width="2" fill="none">
+    <path d="M14 32 V14 H32"/>
+    <path d="M506 32 V14 H488"/>
+    <path d="M14 434 V452 H32"/>
+    <path d="M506 434 V452 H488"/>
+  </g>
+
+  <g>
+    <line x1="20" y1="60" x2="20" y2="222" stroke="#12A79B" stroke-opacity="0.3" stroke-width="2"/>
+    <rect class="led" x="15" y="118" width="10" height="10" fill="#C9922A"/>
+  </g>
+
+  <text x="44" y="56" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="14" fill="#9A6B12" letter-spacing="1.5">~/qiang</text>
+  <text x="42" y="138" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="72" fill="#0F1720" letter-spacing="-2.4" font-weight="700">Qiang<tspan fill="#9A6B12">.</tspan></text>
+  <text x="44" y="180" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',Roboto,Helvetica,Arial,sans-serif" font-size="22" fill="#45505F" font-weight="600">专注开源项目与工具自动化</text>
+  <text x="44" y="206" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',Roboto,Helvetica,Arial,sans-serif" font-size="15" fill="#66707E">Web 开发 · 自动化 · 云计算 · 网络安全</text>
+  <g>
+    <rect x="44" y="220" width="43.4" height="30" rx="8" fill="#F7F9FC" stroke="#E4EAF2"/>
+    <text x="65.7" y="239.5" text-anchor="middle" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="13" fill="#0B6E68">Web</text>
+    <rect x="95.4" y="220" width="59.0" height="30" rx="8" fill="#F7F9FC" stroke="#E4EAF2"/>
+    <text x="124.9" y="239.5" text-anchor="middle" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="13" fill="#0B6E68">自动化</text>
+    <rect x="162.4" y="220" width="59.0" height="30" rx="8" fill="#F7F9FC" stroke="#E4EAF2"/>
+    <text x="191.9" y="239.5" text-anchor="middle" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="13" fill="#0B6E68">云计算</text>
+    <rect x="229.4" y="220" width="72.0" height="30" rx="8" fill="#F7F9FC" stroke="#E4EAF2"/>
+    <text x="265.4" y="239.5" text-anchor="middle" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="13" fill="#0B6E68">网络安全</text>
+  </g>
+
+  <g>
+    <line x1="44" y1="266" x2="476" y2="266" stroke="#12A79B" stroke-opacity="0.22" stroke-width="2"/>
+    <path d="M44 266 V254" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M68 266 V260" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M92 266 V260" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M116 266 V260" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M140 266 V254" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M164 266 V260" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M188 266 V254" stroke="#C9922A" stroke-opacity="0.65" stroke-width="2"/>
+    <path d="M212 266 V260" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M236 266 V254" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M260 266 V260" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M284 266 V260" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M308 266 V260" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M332 266 V254" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M356 266 V260" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M380 266 V260" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M404 266 V260" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M428 266 V254" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+    <path d="M452 266 V254" stroke="#C9922A" stroke-opacity="0.65" stroke-width="2"/>
+    <path d="M476 266 V260" stroke="#12A79B" stroke-opacity="0.32" stroke-width="2"/>
+  </g>
+
+  <g>
+    <rect x="44" y="286" width="432" height="132" rx="12" fill="#F7F9FC" stroke="#E4EAF2"/>
+    <path d="M56 286 H464 A12 12 0 0 1 476 298 V316 H44 V298 A12 12 0 0 1 56 286 Z" fill="#F0F4F9"/>
+    <line x1="44" y1="317" x2="476" y2="317" stroke="#E9EEF5"/>
+    <circle cx="64" cy="301" r="4" fill="#C9922A"/>
+    <circle cx="79" cy="301" r="4" fill="#12A79B"/>
+    <circle cx="94" cy="301" r="4" fill="#C3CCD8"/>
+  </g>
+
+  <text x="260.0" y="306" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="11" fill="#66707E" text-anchor="middle">~/profile</text>
+  <text x="62" y="340" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="13" fill="#9A6B12">$ </text>  <text x="77.6" y="340" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="13" fill="#0F1720">whoami</text>
+  <text x="62" y="362" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="13" fill="#0B6E68">Qiang · full-stack dev</text>
+  <text x="62" y="384" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="13" fill="#9A6B12">$ </text>  <text x="77.6" y="384" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="13" fill="#0F1720">ls ~/projects</text>
+  <text x="62" y="406" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="13" fill="#0B6E68">tvdeck  metapi  JKVideo</text>
+  <rect class="cursor" x="247.4" y="382" width="7" height="13" fill="#12A79B"/>
+
+  <text x="44" y="444" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Menlo,Consolas,'PingFang SC','Microsoft YaHei',monospace" font-size="11" fill="#66707E" letter-spacing="0.5">github.com/ZYQiang</text>
+  <rect x="0.5" y="0.5" width="519" height="465" rx="14" fill="none" stroke="#D8E0EA"/>
+
+</svg>
